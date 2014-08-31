@@ -6,3 +6,31 @@ basis for
 - CentOS
 - Scientific Linux
 - Oracle Linux
+
+It uses the RPM-based yum package manager
+RHEL is widely used by enterprises which host their own systems.
+
+SUSE Family:
+basis for
+- SUSE LINUX Enterprise Server (SLES)
+- openSUSE
+
+openSUSE is available at no cost
+- SLES is upstream for openSUSE
+- Linux kernel 3.11
+It uses the RPM-based zypper package manager
+It includes the YaST (Yet another System Tool)
+SUSE is widely used in the retial sector
+
+
+Debian Family:
+- commonly used on both servers and desktop computers
+- pure open source project
+- focusses on stability
+- provides largest software repository
+- Ubuntu compromise between long term stability and ease of use
+
+- Liniux kernel 3.13
+- It uses the DPKG-bases package manager
+- Ubuntu has been widely used for cloud deployments
+- is GNOME-based
