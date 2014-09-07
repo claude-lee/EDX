@@ -18,3 +18,6 @@ Linux Introduction
 - Linux is a fully multitasking, multiuser operating system, with built-in networking and service processes known as daemons.
 - Linux is developed by a loose confederation of developers from all over the world, collaborating over the Internet, 
 with Linus Torvalds at the head. Technical skill and a desire to contribute are the only qualifications for participating.
+- The Linux community is a far reaching ecosystem of developers, vendors, and users that supports and advances the Linux operating system.
+- Some of the common terms used in Linux are: Kernel, Distribution, Boot loader, Service, Filesystem, X Window system, desktop environment, and command line.
+- A full Linux distribution consists of the kernel plus a number of other software tools for file-related operations, user management, and software package management.
