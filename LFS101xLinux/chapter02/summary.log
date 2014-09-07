@@ -12,3 +12,9 @@ Together with other ingredients required to construct an operating system he dev
 
 
 Linux Introduction
+
+- Linux borrows heavily from the UNIX operating system, with which its creators were well versed. 
+- Linux accesses many features and services through files and file-like objects.
+- Linux is a fully multitasking, multiuser operating system, with built-in networking and service processes known as daemons.
+- Linux is developed by a loose confederation of developers from all over the world, collaborating over the Internet, 
+with Linus Torvalds at the head. Technical skill and a desire to contribute are the only qualifications for participating.
