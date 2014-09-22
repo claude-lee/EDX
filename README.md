@@ -3,4 +3,6 @@ EDX
 
 edx courses
 
-1 - CS188.1x Artificial Intelligence
+CS188.1x Artificial Intelligence
+
+LFS101x Introduction to Linux
