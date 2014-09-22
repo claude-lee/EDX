@@ -3,4 +3,4 @@ EDX
 
 edx courses
 
-CS188.1x Artificial Intelligence
+1 - CS188.1x Artificial Intelligence
